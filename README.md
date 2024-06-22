@@ -47,7 +47,7 @@ The data for this dashboard is aggregated from various sources, including:
 
 1. **Clone the Repository**:
    
-   git clone https://github.com/VighneshPatil17/ecommerce-dashboard-powerbi.git
+   git clone https://https://github.com/VighneshPatil17/Power-BI-Ecommerce-dashboard-powerbi.git
    cd ecommerce-dashboard-powerbi
 
 ## Data Preparation
